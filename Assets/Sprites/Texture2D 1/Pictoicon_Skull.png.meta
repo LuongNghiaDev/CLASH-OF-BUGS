@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: cb5d4d14572015c45bc78ebf43e58fef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Pictoicon_Skull
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pictoicon_Skull
+      rect:
+        serializedVersion: 2
+        x: 48.026752
+        y: 53.026752
+        width: 159.89713
+        height: 148.89713
+      alignment: 9
+      pivot: {x: 0.5001544, y: 0.5035238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.97532, y: -74.47531}
+        - {x: -79.97532, y: -70.47531}
+        - {x: -79.97532, y: 48.52469}
+        - {x: -62.97532, y: 74.52469}
+        - {x: 42.02468, y: 74.52469}
+        - {x: 80.02468, y: 48.52469}
+        - {x: 80.02468, y: -22.475311}
+        - {x: 79.02468, y: -28.475311}
+        - {x: 61.02468, y: -74.47531}
+      physicsShape:
+      - - {x: 17.024681, y: -71.47531}
+        - {x: 24.024681, y: -73.47531}
+        - {x: 37.02468, y: -73.47531}
+        - {x: 40.024677, y: -72.4753}
+        - {x: 65.02468, y: -53.475307}
+        - {x: 73.02467, y: -42.475307}
+        - {x: 79.02468, y: -17.475311}
+        - {x: 79.02468, y: 15.524688}
+        - {x: 73.02467, y: 36.52469}
+        - {x: 53.024677, y: 57.52469}
+        - {x: 43.024677, y: 63.52469}
+        - {x: 32.02468, y: 68.52469}
+        - {x: 23.02468, y: 71.52469}
+        - {x: 10.02468, y: 74.52469}
+        - {x: -17.975319, y: 74.52469}
+        - {x: -48.975315, y: 61.52469}
+        - {x: -65.97532, y: 44.52469}
+        - {x: -76.97532, y: 24.524689}
+        - {x: -78.97532, y: 17.524689}
+        - {x: -78.97532, y: -14.47531}
+        - {x: -76.97532, y: -28.475311}
+        - {x: -66.97531, y: -50.47531}
+        - {x: -63.97532, y: -53.475307}
+        - {x: -33.97532, y: -47.47531}
+        - {x: -33.97532, y: -71.47531}
+        - {x: -32.97532, y: -73.47531}
+        - {x: -21.975319, y: -73.47531}
+        - {x: -12.975319, y: -66.4753}
+        - {x: -6.975319, y: -73.47531}
+        - {x: 10.02468, y: -73.47531}
+      - - {x: -40.97532, y: -19.47531}
+        - {x: -42.975315, y: -17.475311}
+        - {x: -43.97532, y: -17.475311}
+        - {x: -47.97532, y: -13.475311}
+        - {x: -48.975315, y: -9.47531}
+        - {x: -49.97532, y: -6.4753113}
+        - {x: -50.97532, y: -5.4753113}
+        - {x: -50.97532, y: 0.5246887}
+        - {x: -49.97532, y: 1.5246887}
+        - {x: -48.975315, y: 6.5246887}
+        - {x: -46.97532, y: 8.524689}
+        - {x: -46.97532, y: 9.524689}
+        - {x: -42.975315, y: 12.524689}
+        - {x: -37.97532, y: 15.524688}
+        - {x: -33.97532, y: 15.524688}
+        - {x: -31.975319, y: 16.524689}
+        - {x: -30.975319, y: 15.524688}
+        - {x: -26.975317, y: 15.524688}
+        - {x: -25.975319, y: 14.524689}
+        - {x: -22.975317, y: 13.524689}
+        - {x: -18.975319, y: 10.524688}
+        - {x: -15.975319, y: 7.5246887}
+        - {x: -14.975318, y: 3.5246887}
+        - {x: -13.975319, y: 2.5246887}
+        - {x: -13.975319, y: -7.4753113}
+        - {x: -14.975318, y: -8.475311}
+        - {x: -15.975319, y: -12.475311}
+        - {x: -18.975319, y: -16.475311}
+        - {x: -19.975317, y: -16.475311}
+        - {x: -25.975319, y: -20.475311}
+        - {x: -33.97532, y: -21.475311}
+        - {x: -34.97532, y: -20.475311}
+      - - {x: 23.02468, y: -19.47531}
+        - {x: 21.024681, y: -17.475311}
+        - {x: 20.02468, y: -17.475311}
+        - {x: 16.024681, y: -12.475311}
+        - {x: 14.024681, y: -9.47531}
+        - {x: 14.024681, y: -6.4753113}
+        - {x: 13.024681, y: -5.4753113}
+        - {x: 13.024681, y: 0.5246887}
+        - {x: 14.024681, y: 1.5246887}
+        - {x: 14.024681, y: 4.5246887}
+        - {x: 16.024681, y: 7.5246887}
+        - {x: 21.024681, y: 12.524689}
+        - {x: 26.024681, y: 15.524688}
+        - {x: 30.02468, y: 15.524688}
+        - {x: 32.02468, y: 16.524689}
+        - {x: 33.02468, y: 15.524688}
+        - {x: 37.02468, y: 15.524688}
+        - {x: 38.02468, y: 14.524689}
+        - {x: 41.02468, y: 13.524689}
+        - {x: 45.02468, y: 10.524688}
+        - {x: 48.02468, y: 7.5246887}
+        - {x: 49.024677, y: 3.5246887}
+        - {x: 50.02468, y: 2.5246887}
+        - {x: 50.02468, y: -7.4753113}
+        - {x: 49.024677, y: -8.475311}
+        - {x: 48.02468, y: -12.475311}
+        - {x: 45.02468, y: -16.475311}
+        - {x: 44.02468, y: -16.475311}
+        - {x: 38.02468, y: -20.475311}
+        - {x: 30.02468, y: -21.475311}
+        - {x: 29.024681, y: -20.475311}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4727230ac3964a31b97062e0b2efa909
+      internalID: 21300000
+      vertices:
+      - {x: 208, y: 176}
+      - {x: 207, y: 99}
+      - {x: 208, y: 105}
+      - {x: 189, y: 53}
+      - {x: 170, y: 202}
+      - {x: 72, y: 53}
+      - {x: 65, y: 202}
+      - {x: 48, y: 176}
+      - {x: 48, y: 57}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pictoicon_Skull: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

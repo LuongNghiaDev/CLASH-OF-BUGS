@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 768069c1ce978cc48aa074da9904c8db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: arcane_glow _2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arcane_glow _2
+      rect:
+        serializedVersion: 2
+        x: 5.0129128
+        y: 4.0335007
+        width: 248.97418
+        height: 246.89038
+      alignment: 9
+      pivot: {x: 0.49397528, y: 0.5021115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: -57.47869}
+        - {x: -124.5, y: -25.478691}
+        - {x: -124.5, y: 29.521309}
+        - {x: -104.5, y: 76.52131}
+        - {x: -93.5, y: 89.52131}
+        - {x: -50.5, y: 119.52132}
+        - {x: -25.5, y: 123.52131}
+        - {x: 42.5, y: 123.52131}
+        - {x: 93.5, y: 86.52131}
+        - {x: 109.5, y: 59.521305}
+        - {x: 124.5, y: 16.521309}
+        - {x: 124.5, y: -16.478691}
+        - {x: 116.49999, y: -62.47869}
+        - {x: 81.5, y: -96.47869}
+        - {x: 54.5, y: -118.4787}
+        - {x: 25.500002, y: -123.47869}
+        - {x: -34.5, y: -123.47869}
+        - {x: -62.5, y: -113.47869}
+        - {x: -75.5, y: -108.47869}
+      physicsShape:
+      - - {x: 35.5, y: 14.521309}
+        - {x: 20.5, y: 31.521309}
+        - {x: 9.5, y: 35.52131}
+        - {x: -14.5, y: 35.52131}
+        - {x: -32.5, y: 20.521307}
+        - {x: -37.5, y: 11.521309}
+        - {x: -37.5, y: -13.478691}
+        - {x: -32.5, y: -23.478691}
+        - {x: -15.5, y: -36.47869}
+        - {x: 11.5, y: -36.47869}
+        - {x: 28.499998, y: -23.478691}
+        - {x: 34.5, y: -12.478691}
+        - {x: 35.5, y: -4.4786906}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002aff0e3b04e3ea5f07094b9d4a6d9
+      internalID: 21300000
+      vertices:
+      - {x: 254, y: 144}
+      - {x: 246, y: 65}
+      - {x: 254, y: 111}
+      - {x: 239, y: 187}
+      - {x: 223, y: 214}
+      - {x: 211, y: 31}
+      - {x: 184, y: 8.999992}
+      - {x: 172, y: 251}
+      - {x: 155, y: 4}
+      - {x: 104, y: 251}
+      - {x: 95, y: 4}
+      - {x: 79, y: 247}
+      - {x: 67, y: 14}
+      - {x: 54, y: 19}
+      - {x: 36, y: 217}
+      - {x: 25, y: 204}
+      - {x: 7, y: 70}
+      - {x: 5, y: 157}
+      - {x: 5, y: 102}
+      indices: 1200000011000000100000000f00000010000000110000000d000000100000000f0000000e0000000d0000000f0000000b0000000d0000000e0000000c0000000d0000000b0000000a0000000c0000000b000000090000000a0000000b000000080000000a00000009000000070000000800000009000000060000000800000007000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      arcane_glow _2: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

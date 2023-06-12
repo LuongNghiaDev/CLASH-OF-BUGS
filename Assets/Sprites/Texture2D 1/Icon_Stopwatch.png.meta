@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: ff8f149df7a26cc49a1fdcb1b636840a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Icon_Stopwatch
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Stopwatch
+      rect:
+        serializedVersion: 2
+        x: 19.07612
+        y: 2.0761204
+        width: 217.84775
+        height: 252.89713
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.4979253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.999985, y: -85.52468}
+        - {x: -108.999985, y: -50.52468}
+        - {x: -108.999985, y: 40.47532}
+        - {x: -60.999985, y: 114.47532}
+        - {x: -29.999987, y: 120.47532}
+        - {x: -21.999985, y: 119.47533}
+        - {x: -15.999985, y: 117.47531}
+        - {x: 4.0000153, y: 100.47532}
+        - {x: 10.000015, y: 119.47533}
+        - {x: 17.000015, y: 126.47532}
+        - {x: 34.000015, y: 126.47532}
+        - {x: 62.000015, y: 120.47532}
+        - {x: 109.000015, y: 81.47532}
+        - {x: 109.000015, y: -70.52468}
+        - {x: 43.000015, y: -126.52468}
+        - {x: -26.999987, y: -126.52468}
+        - {x: -57.999985, y: -121.52468}
+      physicsShape:
+      - - {x: 64.000015, y: -100.52468}
+        - {x: 77.000015, y: -86.52467}
+        - {x: 83.000015, y: -76.52468}
+        - {x: 87.000015, y: -70.52468}
+        - {x: 94.000015, y: -55.52468}
+        - {x: 98.00001, y: -35.52468}
+        - {x: 97.000015, y: 1.4753189}
+        - {x: 95.000015, y: 22.475317}
+        - {x: 101.000015, y: 26.475317}
+        - {x: 108.00001, y: 33.47532}
+        - {x: 108.00001, y: 55.47532}
+        - {x: 99.00001, y: 71.47532}
+        - {x: 88.000015, y: 78.47532}
+        - {x: 78.000015, y: 79.47531}
+        - {x: 64.000015, y: 68.47532}
+        - {x: 62.000015, y: 81.47532}
+        - {x: 65.000015, y: 106.47531}
+        - {x: 55.000015, y: 117.47531}
+        - {x: 33.000015, y: 125.47532}
+        - {x: 21.000015, y: 125.47532}
+        - {x: 15.000014, y: 124.47532}
+        - {x: 9.000015, y: 115.47532}
+        - {x: 4.0000153, y: 97.47531}
+        - {x: -7.9999847, y: 95.47532}
+        - {x: -9.999984, y: 108.47532}
+        - {x: -12.999985, y: 113.47532}
+        - {x: -20.999985, y: 119.47531}
+        - {x: -29.999983, y: 119.47531}
+        - {x: -46.999985, y: 116.47531}
+        - {x: -59.99998, y: 105.47531}
+        - {x: -59.99998, y: 87.47532}
+        - {x: -66.99998, y: 75.47532}
+        - {x: -69.999985, y: 72.47531}
+        - {x: -84.999985, y: 58.475315}
+        - {x: -96.999985, y: 40.47532}
+        - {x: -104.99998, y: 22.475317}
+        - {x: -107.99998, y: 5.475319}
+        - {x: -107.99998, y: -30.52468}
+        - {x: -103.999985, y: -50.52468}
+        - {x: -96.999985, y: -69.52468}
+        - {x: -82.999985, y: -89.52468}
+        - {x: -64.999985, y: -107.52467}
+        - {x: -40.999985, y: -120.52467}
+        - {x: -19.999983, y: -125.52468}
+        - {x: 10.000014, y: -125.52468}
+        - {x: 27.000013, y: -122.52468}
+        - {x: 46.00001, y: -113.52468}
+        - {x: 52.000015, y: -109.52468}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ab2e43dcda4711901316a12f58ffa2
+      internalID: 21300000
+      vertices:
+      - {x: 190, y: 249}
+      - {x: 237, y: 58}
+      - {x: 237, y: 210}
+      - {x: 171, y: 2}
+      - {x: 162, y: 255}
+      - {x: 145, y: 255}
+      - {x: 138, y: 248}
+      - {x: 132, y: 229}
+      - {x: 112, y: 246}
+      - {x: 106, y: 248}
+      - {x: 101, y: 2}
+      - {x: 98, y: 249}
+      - {x: 70, y: 7}
+      - {x: 67, y: 243}
+      - {x: 24, y: 43}
+      - {x: 19, y: 169}
+      - {x: 19, y: 78}
+      indices: 100000000f0000000e0000000d0000000e0000000f0000000c0000000e0000000d0000000b0000000c0000000d0000000a0000000c0000000b000000090000000a0000000b000000030000000a00000009000000080000000300000009000000070000000300000008000000060000000300000007000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_Stopwatch: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

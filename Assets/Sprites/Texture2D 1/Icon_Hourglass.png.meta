@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: dee106bd8a2ab114b918d95d02eff433
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Icon_Hourglass
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Hourglass
+      rect:
+        serializedVersion: 2
+        x: 11.026751
+        y: 0.026750982
+        width: 233.9465
+        height: 255.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -74.9753}
+        - {x: -116.99999, y: -51.975304}
+        - {x: -116.99999, y: -26.975306}
+        - {x: -44, y: 106.02469}
+        - {x: -26, y: 128.02469}
+        - {x: -3, y: 128.02469}
+        - {x: 34, y: 116.0247}
+        - {x: 100, y: 73.0247}
+        - {x: 116, y: 56.024696}
+        - {x: 116.99999, y: 50.024696}
+        - {x: 116.99999, y: 26.024696}
+        - {x: 41, y: -91.9753}
+        - {x: 41, y: -107.97531}
+        - {x: 25, y: -127.9753}
+        - {x: -7, y: -127.9753}
+        - {x: -15.000001, y: -125.9753}
+      physicsShape:
+      - - {x: 76, y: -29.975302}
+        - {x: 98.99999, y: 9.024696}
+        - {x: 104, y: 11.024696}
+        - {x: 105.99999, y: 13.024696}
+        - {x: 116.99999, y: 30.024694}
+        - {x: 116.99999, y: 48.024696}
+        - {x: 115, y: 52.024696}
+        - {x: 110, y: 59.024693}
+        - {x: 97.99999, y: 70.0247}
+        - {x: 89, y: 78.0247}
+        - {x: 69, y: 92.02469}
+        - {x: 45, y: 106.02469}
+        - {x: 12, y: 122.0247}
+        - {x: 2, y: 124.0247}
+        - {x: -9.999999, y: 127.0247}
+        - {x: -22.999998, y: 127.0247}
+        - {x: -29, y: 121.02469}
+        - {x: -38, y: 104.0247}
+        - {x: -39, y: 98.02469}
+        - {x: -44, y: 85.0247}
+        - {x: -51, y: 73.02469}
+        - {x: -58.999996, y: 59.024693}
+        - {x: -96, y: -4.975303}
+        - {x: -109, y: -15.975304}
+        - {x: -116, y: -31.975304}
+        - {x: -116.99999, y: -36.975304}
+        - {x: -116.99999, y: -46.975304}
+        - {x: -114, y: -54.975304}
+        - {x: -98.99999, y: -70.9753}
+        - {x: -77, y: -85.975296}
+        - {x: -68, y: -91.975296}
+        - {x: -64, y: -94.9753}
+        - {x: -42.999996, y: -107.975296}
+        - {x: -22, y: -117.975296}
+        - {x: -8, y: -121.9753}
+        - {x: 4.9999995, y: -126.9753}
+        - {x: 19.999998, y: -126.9753}
+        - {x: 28, y: -122.9753}
+        - {x: 37, y: -105.975296}
+        - {x: 39, y: -93.9753}
+      - - {x: 35, y: -26.975302}
+        - {x: 35, y: -23.975304}
+        - {x: 33, y: -17.975304}
+        - {x: 31, y: -14.975303}
+        - {x: 39, y: -14.975303}
+        - {x: 39.999996, y: -13.975304}
+        - {x: 44, y: -13.975304}
+        - {x: 44, y: -12.975304}
+        - {x: 41, y: -16.975304}
+        - {x: 39, y: -18.975304}
+        - {x: 35, y: -25.975304}
+        - {x: 35, y: -28.975304}
+        - {x: 36, y: -28.975304}
+      - - {x: -38, y: 22.024696}
+        - {x: -36, y: 24.024696}
+        - {x: -33, y: 29.024696}
+        - {x: -31, y: 34.024696}
+        - {x: -32, y: 34.024696}
+        - {x: -32, y: 32.024696}
+        - {x: -29.999998, y: 26.024696}
+        - {x: -28, y: 22.024696}
+        - {x: -35, y: 22.024696}
+        - {x: -36, y: 21.024696}
+        - {x: -39.999996, y: 21.024696}
+        - {x: -41, y: 19.024696}
+        - {x: -39, y: 19.024696}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9877357dd24d6387703a2bc5605b8f
+      internalID: 21300000
+      vertices:
+      - {x: 244, y: 184}
+      - {x: 245, y: 154}
+      - {x: 245, y: 178}
+      - {x: 228, y: 201}
+      - {x: 169, y: 36}
+      - {x: 162, y: 244}
+      - {x: 169, y: 19.999992}
+      - {x: 153, y: 0}
+      - {x: 125, y: 256}
+      - {x: 121, y: 0}
+      - {x: 113, y: 2}
+      - {x: 102, y: 256}
+      - {x: 84, y: 234}
+      - {x: 26, y: 53}
+      - {x: 11.000008, y: 101}
+      - {x: 11.000008, y: 76}
+      indices: 0f0000000e0000000d0000000c0000000d0000000e0000000a0000000d0000000c0000000b0000000a0000000c000000080000000a0000000b000000090000000a00000008000000070000000900000008000000050000000700000008000000060000000700000005000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_Hourglass: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

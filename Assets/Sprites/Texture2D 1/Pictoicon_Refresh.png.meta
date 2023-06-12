@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 81de0e17bf62a4647b911649c1e21d28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Pictoicon_Refresh
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pictoicon_Refresh
+      rect:
+        serializedVersion: 2
+        x: 49.076122
+        y: 36.026752
+        width: 158.84775
+        height: 182.9465
+      alignment: 9
+      pivot: {x: 0.49685234, y: 0.50273305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -91.5}
+        - {x: -79.5, y: -64.5}
+        - {x: -79.5, y: 46.5}
+        - {x: -7.5, y: 91.5}
+        - {x: 26.500002, y: 91.5}
+        - {x: 64.5, y: 51.5}
+        - {x: 66.5, y: 41.5}
+        - {x: 65.5, y: 28.5}
+        - {x: 79.5, y: 25.5}
+        - {x: 79.5, y: -70.5}
+        - {x: 42.5, y: -91.5}
+      physicsShape:
+      - - {x: 69.5, y: -50.5}
+        - {x: 78.5, y: -33.5}
+        - {x: 78.5, y: 5.4999995}
+        - {x: 74.5, y: 17.5}
+        - {x: 50.5, y: 1.5}
+        - {x: 52.499996, y: -25.5}
+        - {x: 44.5, y: -44.5}
+        - {x: 34.5, y: -54.5}
+        - {x: 13.5, y: -62.5}
+        - {x: 2.5, y: -62.5}
+        - {x: -21.5, y: -52.499996}
+        - {x: -33.5, y: -33.5}
+        - {x: -36.5, y: -11.5}
+        - {x: -32.5, y: 5.4999995}
+        - {x: -17.5, y: 21.5}
+        - {x: -4.5, y: 23.499998}
+        - {x: -4.5, y: 6.5}
+        - {x: -1.5, y: 1.5}
+        - {x: 8.5, y: 3.5}
+        - {x: 44.5, y: 27.499998}
+        - {x: 58.499996, y: 41.5}
+        - {x: 59.499996, y: 44.5}
+        - {x: 60.5, y: 50.5}
+        - {x: 45.499996, y: 65.5}
+        - {x: 11.5, y: 88.5}
+        - {x: 3.5, y: 91.5}
+        - {x: -1.5, y: 91.5}
+        - {x: -5.4999995, y: 88.5}
+        - {x: -7.5, y: 67.49999}
+        - {x: -19.5, y: 65.5}
+        - {x: -29.5, y: 63.5}
+        - {x: -51.5, y: 50.5}
+        - {x: -65.5, y: 35.5}
+        - {x: -69.5, y: 29.5}
+        - {x: -78.5, y: 7.5}
+        - {x: -79.5, y: -1.5}
+        - {x: -79.5, y: -25.5}
+        - {x: -76.5, y: -34.5}
+        - {x: -73.49999, y: -42.499996}
+        - {x: -69.5, y: -51.5}
+        - {x: -63.5, y: -60.5}
+        - {x: -42.5, y: -80.5}
+        - {x: -18.5, y: -90.5}
+        - {x: 14.499999, y: -90.5}
+        - {x: 32.5, y: -85.49999}
+        - {x: 46.5, y: -76.5}
+        - {x: 60.5, y: -63.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982bf38230094fbb89024046bee3165d
+      internalID: 21300000
+      vertices:
+      - {x: 195, y: 169}
+      - {x: 193, y: 179}
+      - {x: 194, y: 156}
+      - {x: 208, y: 57}
+      - {x: 208, y: 153}
+      - {x: 171, y: 36}
+      - {x: 155, y: 219}
+      - {x: 121, y: 219}
+      - {x: 78, y: 36}
+      - {x: 49, y: 174}
+      - {x: 49, y: 63}
+      indices: 0a0000000900000008000000070000000800000009000000050000000800000007000000060000000500000007000000010000000500000006000000020000000500000001000000030000000500000002000000040000000300000002000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pictoicon_Refresh: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

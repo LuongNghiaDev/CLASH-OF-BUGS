@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: ed00b627d395355468c39d6ea29097ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: insect5.1-move_3
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 50
+  maxTextureSize: 155
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: insect5.1-move_3
+      rect:
+        serializedVersion: 2
+        x: 7.026751
+        y: 6.0761204
+        width: 144.9465
+        height: 134.88097
+      alignment: 9
+      pivot: {x: 0.4862018, y: 0.49616995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -67.5166}
+        - {x: -34.5, y: -60.516605}
+        - {x: -53.5, y: -52.5166}
+        - {x: -72.5, y: -43.5166}
+        - {x: -72.5, y: 12.483398}
+        - {x: -52.5, y: 67.4834}
+        - {x: 47.5, y: 67.4834}
+        - {x: 50.499996, y: 66.4834}
+        - {x: 72.5, y: 17.483398}
+        - {x: 72.5, y: -24.516602}
+        - {x: 54.5, y: -67.5166}
+      physicsShape:
+      - - {x: 53.5, y: -30.5166}
+        - {x: 64.5, y: -28.516602}
+        - {x: 67.5, y: -13.516602}
+        - {x: 70.5, y: -10.516601}
+        - {x: 70.5, y: -0.51660156}
+        - {x: 54.5, y: 15.483398}
+        - {x: 42.5, y: 14.4833975}
+        - {x: 28.5, y: 7.4833984}
+        - {x: 32.5, y: 10.483398}
+        - {x: 48.5, y: 24.483398}
+        - {x: 50.499996, y: 46.4834}
+        - {x: 47.499996, y: 61.4834}
+        - {x: 40.5, y: 64.4834}
+        - {x: 33.5, y: 64.4834}
+        - {x: 30.5, y: 58.483395}
+        - {x: 30.5, y: 44.4834}
+        - {x: 15.5, y: 52.483395}
+        - {x: -17.5, y: 53.483395}
+        - {x: -28.499998, y: 38.4834}
+        - {x: -35.499996, y: 48.483395}
+        - {x: -40.5, y: 53.483395}
+        - {x: -46.5, y: 53.483395}
+        - {x: -50.5, y: 49.4834}
+        - {x: -49.5, y: 21.483398}
+        - {x: -62.499996, y: 9.4833975}
+        - {x: -65.5, y: -0.51660156}
+        - {x: -61.499996, y: -6.5166016}
+        - {x: -60.499996, y: -10.516601}
+        - {x: -69.5, y: -20.5166}
+        - {x: -69.5, y: -38.5166}
+        - {x: -67.5, y: -41.5166}
+        - {x: -54.499996, y: -37.5166}
+        - {x: -52.5, y: -44.5166}
+        - {x: -37.5, y: -58.5166}
+        - {x: -29.5, y: -34.5166}
+        - {x: -24.5, y: -39.5166}
+        - {x: -12.5, y: -48.5166}
+        - {x: 11.499999, y: -49.516598}
+        - {x: 20.5, y: -44.5166}
+        - {x: 28.5, y: -35.5166}
+        - {x: 33.5, y: -60.516598}
+        - {x: 39.5, y: -62.5166}
+        - {x: 46.5, y: -62.5166}
+        - {x: 49.5, y: -57.5166}
+        - {x: 54.5, y: -39.5166}
+        - {x: 47.499996, y: -23.5166}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9835b3672c86441fa94b720977f6a969
+      internalID: 21300000
+      vertices:
+      - {x: 152, y: 91}
+      - {x: 140, y: 93}
+      - {x: 152, y: 49}
+      - {x: 139, y: 96}
+      - {x: 130, y: 140}
+      - {x: 136, y: 96}
+      - {x: 134, y: 94}
+      - {x: 134, y: 6}
+      - {x: 127, y: 141}
+      - {x: 72, y: 6}
+      - {x: 59, y: 130}
+      - {x: 56, y: 135}
+      - {x: 53, y: 134}
+      - {x: 45, y: 12.999996}
+      - {x: 53, y: 131}
+      - {x: 27, y: 141}
+      - {x: 26, y: 21}
+      - {x: 7, y: 86}
+      - {x: 7, y: 30}
+      - {x: 138, y: 91}
+      - {x: 135, y: 91}
+      - {x: 59, y: 127}
+      - {x: 56, y: 126}
+      indices: 0e0000000c000000160000000b000000160000000c00000015000000160000000b0000000a000000150000000b0000000600000005000000140000001300000014000000050000000300000013000000050000000100000013000000030000000d0000000e0000000900000016000000090000000e0000001500000009000000160000000a00000009000000150000000600000014000000070000000200000007000000140000001300000002000000140000000100000002000000130000001200000011000000100000000f00000010000000110000000d000000100000000f0000000c0000000d0000000f0000000b0000000c0000000f000000080000000b0000000f0000000e0000000d0000000c0000000a0000000b00000008000000090000000a00000008000000070000000900000008000000040000000700000008000000060000000700000004000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      insect5.1-move_3: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

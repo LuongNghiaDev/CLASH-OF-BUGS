@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: f1df589fc6e4d2342b771acfe01195ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: RuneIcon_Frame_2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RuneIcon_Frame_2
+      rect:
+        serializedVersion: 2
+        x: 15.026751
+        y: 12.026751
+        width: 225.9465
+        height: 231.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50010645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109, y: -36.97531}
+        - {x: -113, y: -29.975313}
+        - {x: -113, y: 31.024689}
+        - {x: -110, y: 36.02469}
+        - {x: -33, y: 113.02469}
+        - {x: -26, y: 116.02469}
+        - {x: 26, y: 116.02469}
+        - {x: 31, y: 114.02469}
+        - {x: 110, y: 36.02469}
+        - {x: 113, y: 29.024689}
+        - {x: 113, y: -28.975311}
+        - {x: 112, y: -36.97531}
+        - {x: 29, y: -115.97531}
+        - {x: -26, y: -115.97531}
+        - {x: -31, y: -113.97531}
+      physicsShape:
+      - - {x: -31, y: 115.02469}
+        - {x: -112, y: 34.02469}
+        - {x: -112, y: -32.97531}
+        - {x: -39, y: -108.97531}
+        - {x: 69, y: -108.97531}
+        - {x: 112, y: -31.975311}
+        - {x: 112, y: 70.02469}
+        - {x: 36, y: 115.02469}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b9bd444f124c36b3ebe2d0f68df94b
+      internalID: 21300000
+      vertices:
+      - {x: 241, y: 157}
+      - {x: 240, y: 91}
+      - {x: 241, y: 99}
+      - {x: 238, y: 164}
+      - {x: 159, y: 242}
+      - {x: 157, y: 12}
+      - {x: 154, y: 244}
+      - {x: 102, y: 244}
+      - {x: 102, y: 12}
+      - {x: 97, y: 14}
+      - {x: 95, y: 241}
+      - {x: 19, y: 91}
+      - {x: 18, y: 164}
+      - {x: 15, y: 159}
+      - {x: 15, y: 98}
+      indices: 0e0000000d0000000b0000000c0000000b0000000d0000000a0000000b0000000c000000090000000b0000000a00000007000000090000000a000000080000000900000007000000050000000800000007000000060000000500000007000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RuneIcon_Frame_2: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

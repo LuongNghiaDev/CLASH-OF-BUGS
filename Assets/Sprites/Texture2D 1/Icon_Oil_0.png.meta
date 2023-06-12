@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 90ca2b316d61f7549b029020cc4f21b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Icon_Oil
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Oil
+      rect:
+        serializedVersion: 2
+        x: 9.042908
+        y: 6.0761204
+        width: 237.93034
+        height: 243.84775
+      alignment: 9
+      pivot: {x: 0.49996606, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.00808, y: -104.99998}
+        - {x: -119.00809, y: -66.999985}
+        - {x: -119.00809, y: -22.999985}
+        - {x: -88.00808, y: 103.000015}
+        - {x: -69.00808, y: 122.000015}
+        - {x: -30.008081, y: 122.000015}
+        - {x: -0.008079529, y: 116.000015}
+        - {x: 17.99192, y: 101.000015}
+        - {x: 87.99192, y: 80.000015}
+        - {x: 110.99192, y: 58.000015}
+        - {x: 117.99191, y: 38.000015}
+        - {x: 118.99193, y: 8.000015}
+        - {x: 118.99193, y: -91.999985}
+        - {x: 91.99192, y: -97.999985}
+        - {x: 78.99192, y: -92.999985}
+        - {x: 50.99192, y: -103.999985}
+        - {x: 30.99192, y: -121.999985}
+        - {x: -27.008081, y: -121.999985}
+      physicsShape:
+      - - {x: 48.991917, y: -96.999985}
+        - {x: 50.99192, y: -90.999985}
+        - {x: 57.99192, y: -68.999985}
+        - {x: 60.99192, y: -58.99998}
+        - {x: 65.99192, y: -41.999985}
+        - {x: 66.99191, y: -53.99998}
+        - {x: 74.99192, y: -83.999985}
+        - {x: 78.99192, y: -91.99998}
+        - {x: 85.99191, y: -94.999985}
+        - {x: 107.99191, y: -91.99998}
+        - {x: 112.99192, y: -88.999985}
+        - {x: 117.99191, y: -84.999985}
+        - {x: 117.99191, y: -57.999985}
+        - {x: 116.99191, y: -54.999985}
+        - {x: 111.99192, y: 4.0000153}
+        - {x: 112.99192, y: 17.000015}
+        - {x: 114.99192, y: 32.000015}
+        - {x: 111.99192, y: 40.00001}
+        - {x: 108.99192, y: 55.000015}
+        - {x: 106.99191, y: 61.000015}
+        - {x: 92.99192, y: 74.000015}
+        - {x: 77.99192, y: 79.000015}
+        - {x: 61.99192, y: 79.000015}
+        - {x: 53.991917, y: 84.000015}
+        - {x: 44.99192, y: 88.000015}
+        - {x: 24.99192, y: 92.00001}
+        - {x: 15.99192, y: 95.000015}
+        - {x: 10.99192, y: 103.000015}
+        - {x: 7.9919205, y: 105.00001}
+        - {x: -6.0080795, y: 110.000015}
+        - {x: -23.008078, y: 110.000015}
+        - {x: -31.00808, y: 119.00001}
+        - {x: -37.00808, y: 121.00001}
+        - {x: -42.00808, y: 122.000015}
+        - {x: -49.008076, y: 122.000015}
+        - {x: -65.00808, y: 118.00001}
+        - {x: -78.00808, y: 106.00001}
+        - {x: -80.00807, y: 101.000015}
+        - {x: -81.00808, y: 85.000015}
+        - {x: -89.00808, y: 76.000015}
+        - {x: -94.00808, y: 67.00001}
+        - {x: -101.00808, y: 44.000015}
+        - {x: -113.00808, y: -10.999985}
+        - {x: -118.00807, y: -37.999985}
+        - {x: -118.00807, y: -59.99998}
+        - {x: -113.00808, y: -66.99998}
+        - {x: -103.00808, y: -76.999985}
+        - {x: -91.00808, y: -85.99998}
+        - {x: -78.00808, y: -93.999985}
+        - {x: -40.008076, y: -112.999985}
+        - {x: -33.00808, y: -115.999985}
+        - {x: -21.00808, y: -118.99998}
+        - {x: -10.008079, y: -120.99998}
+        - {x: 17.99192, y: -120.99998}
+        - {x: 31.99192, y: -115.999985}
+        - {x: 39.991917, y: -111.999985}
+        - {x: 44.99192, y: -106.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a1543506143298e354fbcd8a9dc17
+      internalID: 21300000
+      vertices:
+      - {x: 246, y: 166}
+      - {x: 247, y: 36}
+      - {x: 247, y: 136}
+      - {x: 239, y: 186}
+      - {x: 220, y: 30}
+      - {x: 216, y: 208}
+      - {x: 207, y: 35}
+      - {x: 179, y: 24}
+      - {x: 159, y: 6}
+      - {x: 146, y: 229}
+      - {x: 128, y: 244}
+      - {x: 101, y: 6}
+      - {x: 98, y: 250}
+      - {x: 59, y: 250}
+      - {x: 57, y: 23.000008}
+      - {x: 40, y: 231}
+      - {x: 8.999992, y: 105}
+      - {x: 8.999992, y: 61}
+      indices: 11000000100000000e0000000f0000000e000000100000000d0000000e0000000f0000000b0000000e0000000d0000000c0000000b0000000d0000000a0000000b0000000c000000080000000b0000000a00000009000000080000000a000000050000000800000009000000070000000800000005000000060000000700000005000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_Oil: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

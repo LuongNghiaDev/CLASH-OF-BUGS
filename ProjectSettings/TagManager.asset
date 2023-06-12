@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boundary
+  - DefenseBox
+  - HousePlayer
+  - Origin
+  - Bug
+  - House
+  - Weapon
+  - Totem
+  - Point
+  - Limit
+  - FxTemporaire
+  - HouseEnemy
+  - LimitPlane
+  - Unlock
+  - Base
+  - LimitAnt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1516857541
+    locked: 0
+  - name: Foregound
+    uniqueID: 2041626219
+    locked: 0
+  - name: Item
+    uniqueID: 1076923877
+    locked: 0
+  - name: Player
+    uniqueID: 1900463861
+    locked: 0
+  - name: PlayerFly
+    uniqueID: 490757297
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
